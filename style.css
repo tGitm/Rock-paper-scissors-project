@@ -1,0 +1,26 @@
+h2 {
+    padding: 20px;
+}
+
+hr.solid {
+    border-top: 3px solid #777373;
+}
+
+.flex-box-rps img:hover {
+    box-shadow: 0px 10px 50px rgba(37, 50, 233, 1);
+}
+
+.flex-box-rps {
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.container-3 {
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* style flex-box-rps divs */
